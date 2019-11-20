@@ -14,7 +14,7 @@
     </proxy>
 	
 	<proxy>
-      <id>myproxy</id>
+      <id>myproxy1</id>
       <active>true</active>
       <protocol>https</protocol>
       <host>squid</host>
