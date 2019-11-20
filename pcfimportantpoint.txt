@@ -1,0 +1,6 @@
+ <dependencies>
+    <dependency>
+      <groupId>io.pivotal.spring.cloud</groupId>
+      <artifactId>spring-cloud-services-starter-service-registry</artifactId>
+    </dependency>
+  </dependencies>
